@@ -11,7 +11,7 @@ This hook adds a WhatsApp button to the client's profile in the admin panel of W
 => Enjoy..
 
   # =>> Credit & Follow <<=
-  => developed by <b><a href="https://github.com/pagi-ronak">Ronak Pagi </a></b>
+  => developed by <b><a href="https://github.com/pagi-ronak">Ronak Pagi </a></b>  [ <b><a href="https://www.linkedin.com/in/pagi-ronak/">Linkedin </a></b> | <b><a href="https://t.me/pagi_ronak">Telegram </a></b> ]
   <br>
   => Follow  <b><a href="https://github.com/usbhost-dev/">usbhost dev </a></b>
   <br>
